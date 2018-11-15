@@ -3,7 +3,7 @@ This repo contains various files from my master thesis for people inteerested in
 
 If you want to read it follow this link: <LINK TO MASTERTHESIS.pdf>
 
-## NODE-RED
+## Node-RED
 
 To implement the Node-RED flow I used to collect data, do the following: 
 1. Copy the content of node-red.txt.
