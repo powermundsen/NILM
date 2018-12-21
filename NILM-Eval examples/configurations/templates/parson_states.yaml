@@ -1,0 +1,17 @@
+configuration_name: ''
+experiment_name: ''
+dataset: ['']
+household: []
+evalDays: ['']
+numOfResults: []
+trainingDays: []
+granularity: []
+filtering: ['']
+filtWindowLength: []
+filtLRatio: []
+phases: ['']
+applianceName: ['']
+likThresh: []
+windowLength: []
+numOfWindows: []
+trainingType: ['']

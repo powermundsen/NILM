@@ -1,0 +1,24 @@
+configuration_name: 'weiss_initial'
+experiment_name: 'powermundsen_all_appliances'
+algorithm: 'weiss'
+dataset: 'powermundsen_data_only_one_phase'
+household:
+evalDays: 'all_powermundsen2'
+numOfResults: 1
+trainingDays: 8
+granularity: 1
+filtering: 'meanMedian'
+filtLength: 5
+filtLRatio: 0.0002
+plevelMinLength: 5
+maxEventDuration: 20
+eventThreshold: 5
+r: 1
+osc: 1
+usage_duration: 5000
+usage_consumption: 1000
+p_edgeThreshold: 5
+p_filtering: 'meanMedian'
+p_filtLength: 5
+p_filtLRatio: 0.0002
+appliance: 'Fridge'

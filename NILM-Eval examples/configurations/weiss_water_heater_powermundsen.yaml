@@ -1,0 +1,24 @@
+configuration_name: 'weiss_water_heater_powermundsen'
+experiment_name: 'weiss_water_heater_powermundsen'
+algorithm: 'weiss'
+dataset: 'powermundsen'
+household: '1'
+evalDays: 'all_days_powermundsen'
+numOfResults: 1
+trainingDays: 7
+granularity: 1
+filtering: 'meanMedian'
+filtLength: 5
+filtWindowLength: 120
+filtLRatio: 0.0002
+plevelMinLength: 5
+maxEventDuration: 20
+eventThreshold: 5
+r: 1
+osc: 1
+usage_duration: 3000
+p_edgeThreshold: 5
+p_filtering: 'meanMedian'
+p_filtLength: 5
+p_filtLRatio: 0.0002
+appliance: 'Water Heater'

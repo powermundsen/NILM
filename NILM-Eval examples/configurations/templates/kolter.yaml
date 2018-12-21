@@ -1,0 +1,12 @@
+configuration_name: ''
+experiment_name: ''
+dataset: ['']
+household: []
+evalDays: ['']
+numOfResults: []
+trainingDays: []
+granularity: []
+filtering: ['']
+fWindowLength: []
+filtLRatio: []
+

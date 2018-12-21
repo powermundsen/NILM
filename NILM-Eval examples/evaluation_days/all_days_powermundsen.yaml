@@ -1,0 +1,9 @@
+name: 'all_days_powermundsen'
+dataset: 'powermundsen'
+houses: [1]
+maxNumOfDays: 100000
+startDate: '2018-11-05'
+endDate: '2018-11-29'
+ignore_rounded_sm_period: 0
+missingValuesThresholdSM: 1
+missingValuesThresholdPlug: 1

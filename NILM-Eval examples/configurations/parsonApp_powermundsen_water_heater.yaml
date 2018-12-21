@@ -1,0 +1,24 @@
+configuration_name: 'tr7_g60_fNO_fr00002_pAll_mon_moff_von_voff_ton_toff_lt001_wl3600_nw0_tNO'
+experiment_name: ['parsonApp_powermundsen_fridge']
+algorithm: 'parsonAppliance'
+dataset: 'powermundsen'
+household:
+evalDays: 'all_days_powermundsen'
+numOfResults: 1
+trainingDays: 7
+granularity: 60
+filtering: 'noFiltering'
+filtWindowLength: 5
+filtLRatio: 0.0002
+phases: 'all'
+applianceName:
+meanOn:
+meanOff:
+varOn:
+varOff:
+transOn:
+transOff:
+likThresh: 
+windowLength: 3600
+numOfWindows: 0
+trainingType: 'noTraining'
