@@ -7,7 +7,7 @@ If you want to read the thesis, follow this link: (Will be posted when graded).
 
 The data was collected in a Norwegian household with two habitans. 12 appliances were individually monitored with Plugwise Circles, and the total consumption of the household was collected with the Kaifa Smart Meter. The period is 24 days. 
 
-![System](hw_overview.png)
+![System](images/hw_overview.png)
 
 
 ## How-to-guide
@@ -23,6 +23,10 @@ To implement the Node-RED flow I used to collect data, do the following:
 4. Paste the text.
 5. Deploy. 
 
+![node_red](images/node_red.png)
+
 ## NILM-Eval
 
 The data were analyzed with the NILM evaluation tool NILM-Eval (https://github.com/beckel/nilm-eval). The data is provided in both raw and formatted format. The formatted data is in the structure desired by NILM-Eval.   
+
+![data_flow](images/data_flow.png)
