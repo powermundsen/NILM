@@ -7,6 +7,8 @@ If you want to read the thesis, follow this link: (Will be posted when graded).
 
 The data was collected in a Norwegian household with two habitans. 12 appliances were individually monitored with Plugwise Circles, and the total consumption of the household was collected with the Kaifa Smart Meter. The period is 24 days. 
 
+![System](system_overview.png)
+
 ## How-to-guide
 
 To replicate the experiment, follow the how-to-guide.
